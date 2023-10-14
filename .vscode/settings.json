@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "catlink.h": "c",
+        "stdint.h": "c"
+    }
+}

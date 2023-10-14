@@ -1,0 +1,4 @@
+# 新增一個 CMake 目標，目標型態為靜態函式庫。
+add_library(src STATIC)
+
+target_sources(src PRIVATE "catlink.c")
